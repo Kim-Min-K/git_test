@@ -1,3 +1,6 @@
 # git_test
 Learning more Github! More repos!
-Hello!
+
+Creating additional change, for practice!
+
+More Changes 
